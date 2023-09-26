@@ -1,6 +1,6 @@
 # qt_ui_lr
 
-Qt is a cross-platform application and UI framework. This project reads in a co2 data in a CSV file, co2.csv, averages the monthly co2 values to annual averages, and then runs linear regression algorithm on annual co2 values vs years to calculate the slope and intercept of the linear regression line. The program then uses Qt UI to plot a scatter plot of annual co2 data and the linear regression line.
+Qt is a cross-platform application and UI framework. This project reads in a co2 data in a CSV file, co2.csv, averages the monthly co2 values to annual averages, and then runs linear regression algorithm on annual co2 values vs years to calculate the slope and intercept of the linear regression line. The program then uses Qt UI to plot a scatter plot of annual co2 data and the linear regression line. Qt componets are in UI.h, UI.cpp and main.cpp.
 
 ## Requirements
 
