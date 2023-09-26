@@ -9,7 +9,7 @@ Qt and Qt Creator, QtCharts: QChartView, QLineSeries, QScatterSeries, QValueAxis
 
 ## Technical Skills
 
-QtWidgets, QApplication, QMainWindow and QtCharts for UI display, regular expressions to parse co2.csv (regex), smart pointers, STL containers such as vector, and map, a few functions in C++ algorithm, linear regression algorithm.
+QtWidgets, QApplication, QMainWindow and QtCharts for UI display, regular expressions to parse co2.csv (regex), smart pointers, STL containers such as vector, and map, a few functions in STL algorithms, linear regression algorithm.
 
 ## Results
 
